@@ -12,6 +12,7 @@
 - **Framework ที่ใช้:** React Native (กับ Expo)  
 - **ลิงก์ GitHub Repository:** https://github.com/Pongsakorn789/PlanEasy.git  
 - **ลิงก์ไฟล์ติดตั้ง (APK):** [ดาวน์โหลดที่นี่](https://expo.dev/artifacts/eas/v7sMDHxFRvp4WZVLUTL54D.apk)
+- (https://expo.dev/artifacts/eas/v7sMDHxFRvp4WZVLUTL54D.apk)
 
 ---
 
@@ -114,7 +115,8 @@
 
 ### 📥 3.3 วิธีติดตั้ง
 
-1. ดาวน์โหลด APK: [ลิงก์นี้](https://expo.dev/artifacts/eas/v7sMDHxFRvp4WZVLUTL54D.apk)  
+1. ดาวน์โหลด APK: [ลิงก์นี้](https://expo.dev/artifacts/eas/v7sMDHxFRvp4WZVLUTL54D.apk)
+(https://expo.dev/artifacts/eas/v7sMDHxFRvp4WZVLUTL54D.apk)  
 2. เปิดการติดตั้งจากแหล่งที่ไม่รู้จัก (Settings > Security)  
 3. ใช้ File Manager ติดตั้ง APK  
 4. เปิดแอปและอนุญาตการแจ้งเตือน
