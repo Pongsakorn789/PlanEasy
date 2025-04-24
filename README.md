@@ -10,7 +10,7 @@
 - **รหัสนักศึกษา:** 6631503114  
 - **ชื่อแอป:** Planeasy  
 - **Framework ที่ใช้:** React Native (กับ Expo)  
-- **ลิงก์ GitHub Repository:** _จะส่งเป็น .zip_  
+- **ลิงก์ GitHub Repository:** https://github.com/Pongsakorn789/PlanEasy.git  
 - **ลิงก์ไฟล์ติดตั้ง (APK):** [ดาวน์โหลดที่นี่](https://expo.dev/artifacts/eas/v7sMDHxFRvp4WZVLUTL54D.apk)
 
 ---
