@@ -16,13 +16,23 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.pongsakorn789.planeasy",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "permissions": [
+        "NOTIFICATIONS"
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4742c79a-118d-45f2-86d1-5b0c68801463"
+      }
     }
   }
 }
